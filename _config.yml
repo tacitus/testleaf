@@ -5,6 +5,7 @@ collections:
   ponies:
     title: Ponies
     output: true
+    permalink: "/ponies/:path"
     Name:
       first name: 
       last name: 
